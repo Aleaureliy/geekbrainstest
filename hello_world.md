@@ -2,4 +2,4 @@
 
 Sample text
 
-Loren
+Lorem
