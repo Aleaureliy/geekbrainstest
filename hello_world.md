@@ -3,3 +3,5 @@
 Sample text
 
 Lorem
+
+Another text
